@@ -13,4 +13,4 @@ Hello, I'm Don 👋
 📫 Let's connect! --> LinkedIn
 
 
-![image](https://user-images.githubusercontent.com/72129905/94788960-63b2fa00-03e5-11eb-8a49-8e95f1c461cb.png)
+![image](https:/www.linkedin.com/in/donppyl)
