@@ -1,4 +1,4 @@
-Hello, I'm Don 👋      
+Hello, I'm Don 👋 ![](https://komarev.com/ghpvc/?username=donppyl)   
 
 🏫 I'm a 1st year Industrial Engineering student, and I will be graduating in May 2024 😎
 
@@ -12,5 +12,5 @@ Hello, I'm Don 👋
 
 📫 Let's connect! --> [LinkedIn](https://www.linkedin.com/in/donppyl/)
 
- ![](https://komarev.com/ghpvc/?username=donppyl)
+
 
