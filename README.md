@@ -8,7 +8,7 @@ Hello, I'm Don 👋                                                             
 
 👨‍💻 Some of my projects are available here --> [Github](https://github.com/donppyl?tab=repositories)
 
-👯 I’m looking to collaborate on ...
+👯 I’m looking to collaborate on React Frameworks 
 
 📫 Let's connect! --> [LinkedIn](https://www.linkedin.com/in/donppyl/)
 
