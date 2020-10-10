@@ -10,6 +10,5 @@ Hello, I'm Don 👋                                                             
 
 👯 I’m looking to collaborate on ...
 
-📫 Let's connect! --> LinkedIn https://www.linkedin.com/in/donppyl/              LinkedIn        LinkedIn[https://www.linkedin.com/in/donppyl/](url)
-
+📫 Let's connect! --> [LinkedIn](https://www.linkedin.com/in/donppyl/)
 
