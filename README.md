@@ -5,9 +5,9 @@ Hello, I'm Don 👋 ![](https://komarev.com/ghpvc/?username=donppyl)
 ______________________________________________________________________________________________________________________________________________________________________________
 
 
-🏫 I'm a 1st year Industrial Engineering student, and I will be graduating in May 2024 😎
+🏫 I'm a VDC Engineer with virtual design experience in VR/AR/MR technologies.
 
-🔭 I’m currently working on my final year project
+🔭 I’m currently working on building framworks and libraries for the Autodesk REvit Environment.
 
 🌱 I’m currently learning Serverless, Progressive Web Apps and UX Design
 
