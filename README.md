@@ -7,7 +7,7 @@ ________________________________________________________________________________
 
 🏫 I'm a VDC Engineer with experience in virtual design and immersive VR/AR/MR technologies.
 
-🔭 I’m currently working on building framworks and libraries for the Autodesk Revit Environment.
+🔭 I’m currently working on building frameworks and libraries for the Autodesk Revit Environment.
 
 🌱 I’m currently learning Serverless, Progressive Web Apps and UX Design.
 
